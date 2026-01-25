@@ -16,4 +16,5 @@ Proiectul include documentatie tehnica completa (configuratii echipamente si ser
 Scopul principal este simularea unei infrastructuri reale de retea si intelegerea modului de functionare si interconectare a componentelor acesteia.
 
 *--- Informatii utile ---*
+
 Proiectul poate fi verificat direct in Cisco Packet Tracer, iar documentatia completa (partea scrisa) este disponibila pentru consultare.
