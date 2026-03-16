@@ -1,5 +1,5 @@
 # Proiect-RC2
-Proiect realizat in Cisco pentru disciplina RC22 - Retele de Calculatoare
+Proiect realizat in Cisco pentru disciplina RC2 - Retele de Calculatoare
 
 *--- Descriere ---*
 
